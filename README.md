@@ -14,3 +14,5 @@ The test task provides a websocket endpoint: wss://hometask.eg1236.com/game1/ wh
 - `yarn test` - to run all tests
 
 ### **Deploy**
+
+- App was published in [https://boxgames1.github.io/minesweeper-react/](https://boxgames1.github.io/minesweeper-react/)
