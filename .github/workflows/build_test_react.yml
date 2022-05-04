@@ -37,4 +37,4 @@ jobs:
           publish_dir: ./build   
     strategy:
       matrix:
-        node-version: [12.x, 14.x, 15.x, 15.x]
+        node-version: [16.x]
