@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Oliver Alonso",
-  "homepage": "https://github.com/boxgames1/minesweeper-react",
+  "homepage": "https://boxgames1.github.io/minesweeper-react/",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@emotion/react": "^11.7.1",
